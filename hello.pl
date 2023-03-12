@@ -12,7 +12,7 @@ $s2 = "my name is \"peter ai\"\n";
 print $s2;
 
 $multi = <<EOL;
-What's going to happen is that
+What's going to happen is that XXXXX
 nothing is free lunch. You have to pay for it, Sir! Hi ooo
 EOL
 print $multi ."\n";
